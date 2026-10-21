@@ -39,7 +39,7 @@ Chinstrap penguins only on Dream. So when the data show that "island matters", i
 environmental effect, or is island just a stand-in for species? This project quantifies how much
 of the variation in body size is explained by **species** versus by **sampling island**.
 
-![Bill length versus bill depth for three penguin species](images/fig1_species_clusters.png)
+![Bill length versus bill depth for three penguin species](fig1_species_clusters.png)
 
 *Figure 1 — Bill shape separates the species almost perfectly. Colour encodes species, marker
 shape encodes island: note that Gentoo (green) appears in squares only, i.e. only on Biscoe.*
@@ -56,7 +56,7 @@ shape encodes island: note that Gentoo (green) appears in squares only, i.e. onl
   **0.01 %** of their variance (p = 0.995). The "island effect" in the full dataset is really
   the Gentoo effect in disguise.
 
-![Species by island grid and variance explained](images/fig2_island_confound.png)
+![Species by island grid and variance explained](fig2_island_confound.png)
 
 *Figure 2 — Left: the sampling design, with the empty cells that create the confounding.
 Right: share of body-mass variance explained by species versus island.*
