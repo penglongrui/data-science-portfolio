@@ -1,0 +1,14 @@
+title: Peng LongRui — Data Science Portfolio
+description: >-
+  A data science portfolio: exploratory analysis, statistical testing and interpretable
+  models in Python. CISC7204 Data Visualisation, University of Macau.
+theme: jekyll-theme-cayman
+lang: en
+
+# Files that should not be served on the public site.
+exclude:
+  - README.md
+  - LICENSE
+
+# Show repository metadata (used for github.com/{{ site.github.owner_name }} links).
+show_downloads: false
